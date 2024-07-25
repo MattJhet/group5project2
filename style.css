@@ -1,0 +1,24 @@
+#map {
+    position: absolute;
+    height: 40%;
+    width: 40%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#floating-panel {
+    position: absolute;
+    top: 2em;
+    left: 8em;
+    z-index: 5;
+    border: 1px solid #999;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2em;
+    padding-left: .75em;
+}
