@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DROP DATABASE IF EXITS ;
 CREATE DATABASE ;
 
@@ -6,3 +7,7 @@ CREATE DATABASE ;
 CREATE TABLE sign in(
 
 )
+=======
+DROP DATABASE IF EXISTS hiking_db;
+CREATE DATABASE hiking_db;
+>>>>>>> 20bb2f37d4f76a6c3bcda44ed13da1079510b76d
