@@ -4,13 +4,6 @@
     width: 40%;
 }
 
-html,
-body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-
 #floating-panel {
     position: absolute;
     top: 2em;
